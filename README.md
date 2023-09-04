@@ -6,5 +6,8 @@
 
 If you found an issue on the page or only have a quick suggestion (for example a project to add), please open a new issue in [our issue list](https://github.com/Kumar-0007/Movie-Recommender/issues). Thank you! 👍
 
+## 🌐 Resources used
+  - 
+
 ## ✉️ Need Help?
 Feel free to mail us on [kumar.kaustubh.0007@gmail.com](mailto::kumar.kaustubh.0007@gmail.com)
